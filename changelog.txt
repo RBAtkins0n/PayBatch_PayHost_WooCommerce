@@ -1,5 +1,7 @@
-= 1.0.0 - February 12, 2020 =
-* Initial PayHost / PayBatch implementation.
+= 1.0.2 - May 14, 2021 =
+* Change cron jobs run using WP-Cron, not system cron.
+* Minor improvements for WooCommerce Subscriptions
+* Tested with Wordpress 5.7 and WooCommerce 5.3
 
 = 1.0.1 - October 19, 2020 =
 * Disable display & selection of recurring payments.
@@ -8,3 +10,6 @@
 * Replace browser sessions with DB.
 * Only allow CLI for cron jobs.
 * Update WSDL url to correct syntax.
+
+= 1.0.0 - February 12, 2020 =
+* Initial PayHost / PayBatch implementation.
