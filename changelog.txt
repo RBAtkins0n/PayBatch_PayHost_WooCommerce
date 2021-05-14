@@ -1,3 +1,6 @@
+= 1.0.3 - May 14, 2021 =
+* Fix issues in token storage.
+
 = 1.0.2 - May 14, 2021 =
 * Change cron jobs run using WP-Cron, not system cron.
 * Minor improvements for WooCommerce Subscriptions
